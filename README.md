@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rcasif/Sample%20NodeJS%20application/_apis/build/status/rcasif.pipelines-javascript)](https://dev.azure.com/rcasif/Sample%20NodeJS%20application/_build/latest?definitionId=3)
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
